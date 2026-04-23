@@ -103,6 +103,5 @@ your-project/
 
 ## Notes
 
-- Your `.env` file contains your API key — never share it or upload it to GitHub
 - Each user needs their own Anthropic API key
 - API usage is billed per request at console.anthropic.com
